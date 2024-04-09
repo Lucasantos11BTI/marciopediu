@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(185, 7, 7);
+}
+
+h1 {
+    color: black;
+}
+
+p {
+    color: lightcoral;
+}
+
+ul {
+    color: lightcoral;
+
+}
+
+.img1{
+    width: 30%;
+}
+
+
