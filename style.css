@@ -7,8 +7,22 @@ h1 {
 }
 
 #paragrafo {
-    color: blue;
+    background-color:  blue;
 }
+
+#texto {
+    background-color:  pink;
+
+}
+
+#linha{
+    background-color: yellow;
+}
+
+#nome {
+    background-color: aquamarine;
+}
+
 
 ul {
     color: lightcoral;
